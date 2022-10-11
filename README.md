@@ -1,4 +1,4 @@
-# <img src="./images/icon.ico" style="height:1em"> Capy Client
+# <img src="./icon.ico" style="height:1em"> Capy Client
 
 Capybara Client is a modern Krunker client written in C++ and powered by WebView2
 
