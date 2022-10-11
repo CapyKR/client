@@ -1,7 +1,7 @@
 {
 	"client": {
 		"url": "https://github.com/CapyKR/client/releases",
-		"version": 0.18,
+		"version": 0.19,
 		"semver": "0.18.0-rc.1"
 	}
 }
